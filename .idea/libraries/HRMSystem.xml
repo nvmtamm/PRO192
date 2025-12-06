@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="HRMSystem">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/HRMSystem.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
